@@ -124,83 +124,90 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🔐 Ciberseguridad
-```text
-████████████████████░░░░░ 85%
-```
-- Análisis de vulnerabilidades
-- Pentesting y ethical hacking
-- Hardening de sistemas
-- Gestión de logs y SIEM
-
-#### 🖧 Redes y Comunicaciones
-```text
-██████████████████████░░░ 90%
-```
-- Diseño de topologías de red
-- Configuración de routers/switches
-- VLANs, trunking y routing
-- Troubleshooting avanzado
-
-#### 🐧 Administración Linux
-```text
-█████████████████████░░░░ 88%
-```
-- Gestión de usuarios y permisos
-- Configuración de servicios
-- Shell scripting avanzado
-- Optimización de rendimiento
-
-#### 🪟 Administración Windows
-```text
-███████████████░░░░░░░░░░ 75%
-```
-- Active Directory
-- PowerShell scripting
-- Políticas de grupo (GPO)
-- Windows Server configuration
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Ciberseguridad-85%25-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Ciberseguridad"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Pentesting-black?style=flat-square&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/-Hardening-black?style=flat-square&logo=shield"/>
+<br>
+<img src="https://img.shields.io/badge/-SIEM-black?style=flat-square&logo=elastic"/>
+<img src="https://img.shields.io/badge/-Forensics-black?style=flat-square&logo=wireshark"/>
 </td>
-<td width="50%" valign="top">
-
-#### 🐍 Python & Scripting
-```text
-██████████████░░░░░░░░░░░ 70%
-```
-- Automatización de tareas
-- Scripting en Bash/Python
-- Desarrollo de herramientas CLI
-- Web scraping y APIs
-
-#### 🗄️ Bases de Datos
-```text
-█████████████░░░░░░░░░░░░ 65%
-```
-- MySQL/MariaDB
-- Diseño de esquemas
-- Consultas complejas (SQL)
-- Backup y recovery
-
-#### 🐳 Docker & Contenedores
-```text
-████████████░░░░░░░░░░░░░ 60%
-```
-- Creación de contenedores
-- Docker Compose
-- Gestión de imágenes
-- Orquestación básica
-
-#### ☁️ Cloud Computing
-```text
-██████████░░░░░░░░░░░░░░░ 50%
-```
-- Conceptos de cloud
-- AWS básico
-- Infraestructura como código
-- Servicios en la nube
-
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Redes-90%25-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Routing-black?style=flat-square&logo=cisco"/>
+<img src="https://img.shields.io/badge/-Switching-black?style=flat-square&logo=cisco"/>
+<br>
+<img src="https://img.shields.io/badge/-VLANs-black?style=flat-square&logo=network"/>
+<img src="https://img.shields.io/badge/-VPN-black?style=flat-square&logo=wireguard"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Linux-88%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian"/>
+<br>
+<img src="https://img.shields.io/badge/-RedHat-black?style=flat-square&logo=redhat"/>
+<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Windows-75%25-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Active_Directory-black?style=flat-square&logo=microsoft"/>
+<img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"/>
+<br>
+<img src="https://img.shields.io/badge/-Server-black?style=flat-square&logo=windows"/>
+<img src="https://img.shields.io/badge/-GPO-black?style=flat-square&logo=windows"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Automation-black?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/-Scripting-black?style=flat-square&logo=gnu-bash"/>
+<br>
+<img src="https://img.shields.io/badge/-APIs-black?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/-CLI_Tools-black?style=flat-square&logo=windows-terminal"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Databases-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases"/>
+<br><br>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb"/>
+<br>
+<img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/-Backup-black?style=flat-square&logo=databricks"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Docker-60%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Containers-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-Compose-black?style=flat-square&logo=docker"/>
+<br>
+<img src="https://img.shields.io/badge/-Images-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-Registry-black?style=flat-square&logo=docker"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Cloud-50%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud"/>
+<br><br>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure"/>
+<br>
+<img src="https://img.shields.io/badge/-IaC-black?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/-Services-black?style=flat-square&logo=google-cloud"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/DevOps-55%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps"/>
+<br><br>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=gitlab"/>
+<br>
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/-Monitoring-black?style=flat-square&logo=prometheus"/>
 </td>
 </tr>
 </table>
@@ -209,18 +216,34 @@ me.say_hi()
 
 ---
 
-### 🎯 Competencias Clave
+### 🎯 Competencias Destacadas
 
 <div align="center">
 
-| 🔧 Área | 📋 Habilidades Específicas |
-|---------|---------------------------|
-| **🔐 Seguridad** | Implementación de medidas de seguridad • Auditorías y hardening • Análisis de logs • Respuesta a incidentes |
-| **🌐 Redes** | Diseño e implementación de infraestructuras • Troubleshooting avanzado • Protocolos TCP/IP • VPN y firewalls |
-| **⚙️ Sistemas** | Configuración y mantenimiento Linux/Windows • Optimización de rendimiento • Alta disponibilidad • Virtualización |
-| **🤖 Automatización** | Scripts Python/Bash • Automatización de tareas repetitivas • CI/CD básico • Configuration management |
-| **💾 Datos** | Gestión de bases de datos relacionales • Diseño y optimización • Backup y recuperación • Migración de datos |
-| **👨‍💻 Desarrollo** | Full-Stack web (HTML/CSS/JS/PHP) • APIs REST • Git y control de versiones • Metodologías ágiles |
+```mermaid
+mindmap
+  root((Alex<br/>SysAdmin))
+    Seguridad
+      Pentesting
+      Hardening
+      Análisis Vulnerabilidades
+      SIEM & Logs
+    Redes
+      TCP/IP
+      Routing & Switching
+      VLANs
+      Troubleshooting
+    Sistemas
+      Linux
+      Windows Server
+      Virtualización
+      Automatización
+    Desarrollo
+      Python
+      Bash
+      Web Full-Stack
+      APIs REST
+```
 
 </div>
 
