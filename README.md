@@ -30,7 +30,7 @@ class AlexNaranjo:
     def get_current_focus(self):
         return {
             "learning": ["Docker", "Kubernetes", "Penetration Testing"],
-            "certifications": ["CCNA", "Linux+", "CEH"],
+            "certifications": ["CCNA", "Linux", "CNI"],
             "interests": ["Ciberseguridad", "DevOps", "Cloud Computing"]
         }
     
@@ -394,18 +394,6 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 
 ### 💡 "La tecnología es mejor cuando acerca a las personas" 
 **- Matt Mullenweg**
-
-</div>
-
----
-
-## ☕ Apóyame
-
-<div align="center">
-
-Si te gusta mi trabajo y quieres apoyarme, ¡invítame a un café! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexnaranjo)
 
 </div>
 
