@@ -216,39 +216,6 @@ me.say_hi()
 
 ---
 
-### 🎯 Competencias Destacadas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Alex<br/>SysAdmin))
-    Seguridad
-      Pentesting
-      Hardening
-      Análisis Vulnerabilidades
-      SIEM & Logs
-    Redes
-      TCP/IP
-      Routing & Switching
-      VLANs
-      Troubleshooting
-    Sistemas
-      Linux
-      Windows Server
-      Virtualización
-      Automatización
-    Desarrollo
-      Python
-      Bash
-      Web Full-Stack
-      APIs REST
-```
-
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
@@ -391,10 +358,10 @@ mindmap
 
 ### 📋 Roadmap
 
-- 🔭 **Q1 2025**: Completar certificación CCNA
-- 🌱 **Q2 2025**: Dominar Docker y Kubernetes para DevOps
-- 👯 **Q3 2025**: Contribuir a 5+ proyectos open-source
-- 💼 **Q4 2025**: Obtener primera experiencia profesional en ciberseguridad
+- 🔭 **Q1 2026**: Completar certificación CCNA
+- 🌱 **Q2 2026**: Dominar Docker y Kubernetes para DevOps
+- 👯 **Q3 2026**: Contribuir a 5+ proyectos open-source
+- 💼 **Q4 2026**: Obtener primera experiencia profesional en ciberseguridad
 - 🎯 **Continuo**: Practicar en plataformas como HackTheBox y TryHackMe
 
 ---
@@ -464,39 +431,6 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 </table>
 
 </div>
-
----
-
-## ☕ Apóyame
-
-<div align="center">
-
-Si te gusta mi trabajo y quieres apoyarme, ¡invítame a un café! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexnaranjo)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Mis Contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-### 📊 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> 💡 **Nota**: Para habilitar la animación de la serpiente y la actividad reciente, necesitarás configurar GitHub Actions en tu repositorio.
 
 ---
 
