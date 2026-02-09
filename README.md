@@ -344,7 +344,7 @@ me.say_hi()
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 <div align="center">
 
@@ -363,31 +363,6 @@ me.say_hi()
 - 👯 **Q3 2026**: Contribuir a 5+ proyectos open-source
 - 💼 **Q4 2026**: Obtener primera experiencia profesional en ciberseguridad
 - 🎯 **Continuo**: Practicar en plataformas como HackTheBox y TryHackMe
-
----
-
-## 🏆 Logros y Reconocimientos
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://github-profile-trophy.vercel.app/?username=alexnaranjooo&theme=tokyonight&no-frame=true&column=3&row=1" alt="Trophies"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-| 🎖️ Logro | 📅 Estado | 🎯 Progreso |
-|----------|-----------|-------------|
-| **Contribuidor Activo** | En curso | ![](https://img.shields.io/badge/progress-75%25-success) |
-| **100 Commits** | Completado | ![](https://img.shields.io/badge/status-achieved-brightgreen) |
-| **Open Source** | En curso | ![](https://img.shields.io/badge/projects-3-blue) |
-| **Certificación CCNA** | Preparando | ![](https://img.shields.io/badge/progress-60%25-yellow) |
-
-</div>
 
 ---
 
