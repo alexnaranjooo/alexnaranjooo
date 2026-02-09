@@ -333,24 +333,12 @@ mindmap
 
 ---
 
-## 🎯 Objetivos 2025
-
-<div align="center">
-
-| 🎓 Certificaciones | 📚 Aprendizaje | 💼 Profesional |
-|-------------------|----------------|----------------|
-| ![](https://progress-bar.dev/60/?title=CCNA&width=120&color=1BA0D7) | ![](https://progress-bar.dev/75/?title=Docker&width=120&color=2496ED) | ![](https://progress-bar.dev/40/?title=Prácticas&width=120&color=FF6B6B) |
-| ![](https://progress-bar.dev/30/?title=Linux+&width=120&color=FCC624) | ![](https://progress-bar.dev/50/?title=Kubernetes&width=120&color=326CE5) | ![](https://progress-bar.dev/80/?title=Portfolio&width=120&color=4ECDC4) |
-| ![](https://progress-bar.dev/20/?title=CEH&width=120&color=557C94) | ![](https://progress-bar.dev/65/?title=AWS&width=120&color=FF9900) | ![](https://progress-bar.dev/90/?title=Networking&width=120&color=95E1D3) |
-
-</div>
-
 ### 📋 Roadmap
 
-- 🔭 **Q1 2025**: Completar certificación CCNA
-- 🌱 **Q2 2025**: Dominar Docker y Kubernetes para DevOps
-- 👯 **Q3 2025**: Contribuir a 5+ proyectos open-source
-- 💼 **Q4 2025**: Obtener primera experiencia profesional en ciberseguridad
+- 🔭 **Q1 2026**: Completar certificación CCNA
+- 🌱 **Q2 2026**: Dominar Docker y Kubernetes para DevOps+
+- 👯 **Q3 2026**: Contribuir a 5+ proyectos open-source
+- 💼 **Q4 2026**: Obtener primera experiencia profesional en ciberseguridad
 - 🎯 **Continuo**: Practicar en plataformas como HackTheBox y TryHackMe
 
 ---
