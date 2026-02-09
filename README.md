@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-naranjo-bl%C3%A1zquez-130ba13a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnaranjooo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexnaranjoblazquez@gmail.com)
-[![InfoJobs](https://img.shields.io/badge/InfoJobs-FF6600?style=for-the-badge&logo=infojobs&logoColor=white)]([https://www.infojobs.net/candidato/perfil/tu-perfil](https://www.infojobs.net/candidate/cv/view/index.xhtml))
+[![InfoJobs](https://img.shields.io/badge/InfoJobs-FF6600?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/7/73/InfoJobs_logo.svg&logoColor=white)]([https://www.infojobs.net/candidato/perfil/tu-perfil](https://www.infojobs.net/candidate/cv/view/index.xhtml))
+
 
 
 
