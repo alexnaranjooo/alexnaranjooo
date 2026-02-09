@@ -120,35 +120,109 @@ me.say_hi()
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  💡 Áreas de Especialización                                 ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🔐 Ciberseguridad                    ████████████░░  85%    ║
-║  🖧  Redes y Comunicaciones            ███████████░░  90%    ║
-║  🐧 Administración Linux              ████████████░  88%    ║
-║  🪟 Administración Windows            ██████████░░░  75%    ║
-║  🐍 Python & Scripting                ████████░░░░░  70%    ║
-║  🗄️  Bases de Datos                    ███████░░░░░░  65%    ║
-║  🐳 Docker & Contenedores             ██████░░░░░░░  60%    ║
-║  ☁️  Cloud Computing                   █████░░░░░░░░  50%    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+### 💡 Áreas de Especialización
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 Ciberseguridad
+```text
+████████████████████░░░░░ 85%
 ```
+- Análisis de vulnerabilidades
+- Pentesting y ethical hacking
+- Hardening de sistemas
+- Gestión de logs y SIEM
+
+#### 🖧 Redes y Comunicaciones
+```text
+██████████████████████░░░ 90%
+```
+- Diseño de topologías de red
+- Configuración de routers/switches
+- VLANs, trunking y routing
+- Troubleshooting avanzado
+
+#### 🐧 Administración Linux
+```text
+█████████████████████░░░░ 88%
+```
+- Gestión de usuarios y permisos
+- Configuración de servicios
+- Shell scripting avanzado
+- Optimización de rendimiento
+
+#### 🪟 Administración Windows
+```text
+███████████████░░░░░░░░░░ 75%
+```
+- Active Directory
+- PowerShell scripting
+- Políticas de grupo (GPO)
+- Windows Server configuration
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐍 Python & Scripting
+```text
+██████████████░░░░░░░░░░░ 70%
+```
+- Automatización de tareas
+- Scripting en Bash/Python
+- Desarrollo de herramientas CLI
+- Web scraping y APIs
+
+#### 🗄️ Bases de Datos
+```text
+█████████████░░░░░░░░░░░░ 65%
+```
+- MySQL/MariaDB
+- Diseño de esquemas
+- Consultas complejas (SQL)
+- Backup y recovery
+
+#### 🐳 Docker & Contenedores
+```text
+████████████░░░░░░░░░░░░░ 60%
+```
+- Creación de contenedores
+- Docker Compose
+- Gestión de imágenes
+- Orquestación básica
+
+#### ☁️ Cloud Computing
+```text
+██████████░░░░░░░░░░░░░░░ 50%
+```
+- Conceptos de cloud
+- AWS básico
+- Infraestructura como código
+- Servicios en la nube
+
+</td>
+</tr>
+</table>
 
 </div>
 
+---
+
 ### 🎯 Competencias Clave
 
-- ✅ **Administración de Sistemas**: Configuración, mantenimiento y optimización de servidores Linux/Windows
-- ✅ **Redes Empresariales**: Diseño, implementación y troubleshooting de infraestructuras de red
-- ✅ **Automatización**: Desarrollo de scripts en Python/Bash para tareas recurrentes
-- ✅ **Seguridad IT**: Implementación de medidas de seguridad, auditorías y hardening
-- ✅ **Virtualización**: Experiencia con VirtualBox, VMware y Docker
-- ✅ **Gestión de BBDD**: MySQL, MariaDB, diseño y optimización de bases de datos
-- ✅ **Desarrollo Web**: HTML, CSS, JavaScript, PHP - Stack completo
-- ✅ **Metodologías Ágiles**: Trabajo en equipo, SCRUM, versionado con Git
+<div align="center">
+
+| 🔧 Área | 📋 Habilidades Específicas |
+|---------|---------------------------|
+| **🔐 Seguridad** | Implementación de medidas de seguridad • Auditorías y hardening • Análisis de logs • Respuesta a incidentes |
+| **🌐 Redes** | Diseño e implementación de infraestructuras • Troubleshooting avanzado • Protocolos TCP/IP • VPN y firewalls |
+| **⚙️ Sistemas** | Configuración y mantenimiento Linux/Windows • Optimización de rendimiento • Alta disponibilidad • Virtualización |
+| **🤖 Automatización** | Scripts Python/Bash • Automatización de tareas repetitivas • CI/CD básico • Configuration management |
+| **💾 Datos** | Gestión de bases de datos relacionales • Diseño y optimización • Backup y recuperación • Migración de datos |
+| **👨‍💻 Desarrollo** | Full-Stack web (HTML/CSS/JS/PHP) • APIs REST • Git y control de versiones • Metodologías ágiles |
+
+</div>
 
 ---
 
