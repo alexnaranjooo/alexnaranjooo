@@ -30,7 +30,7 @@ class AlexNaranjo:
     def get_current_focus(self):
         return {
             "learning": ["Docker", "Kubernetes", "Penetration Testing"],
-            "certifications": ["CCNA", "Linux", "CNI"],
+            "certifications": ["CCNA", "Linux+", "CEH"],
             "interests": ["Ciberseguridad", "DevOps", "Cloud Computing"]
         }
     
@@ -216,7 +216,154 @@ me.say_hi()
 
 ---
 
+### 🎯 Competencias Destacadas
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Alex<br/>SysAdmin))
+    Seguridad
+      Pentesting
+      Hardening
+      Análisis Vulnerabilidades
+      SIEM & Logs
+    Redes
+      TCP/IP
+      Routing & Switching
+      VLANs
+      Troubleshooting
+    Sistemas
+      Linux
+      Windows Server
+      Virtualización
+      Automatización
+    Desarrollo
+      Python
+      Bash
+      Web Full-Stack
+      APIs REST
+```
+
+</div>
+
+---
+
 ## 🚀 Proyectos Destacados
+
+<div align="center">
+
+### 💼 Mis Trabajos Más Relevantes
+
+</div>
+
+<details open>
+<summary><b>🔐 Security-Scanner-Pro</b> - Herramienta de análisis de vulnerabilidades</summary>
+<br>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat)
+
+</div>
+
+**Descripción**: Suite completa de análisis de seguridad para pentesting con escaneo de puertos, detección de servicios y análisis de vulnerabilidades CVE.
+
+**Características principales**:
+- ✅ Escaneo de puertos multihilo optimizado
+- ✅ Detección automática de servicios y versiones
+- ✅ Generación de reportes profesionales en PDF/HTML
+- ✅ Base de datos integrada de vulnerabilidades CVE
+- ✅ Módulo de explotación básica
+
+<div align="center">
+
+[![Ver Proyecto](https://img.shields.io/badge/VER_PROYECTO-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnaranjooo/security-scanner)
+
+</div>
+</details>
+
+<details>
+<summary><b>🌐 Network-Automation-Suite</b> - Automatización de redes empresariales</summary>
+<br>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+**Descripción**: Colección de scripts para automatizar configuraciones en dispositivos Cisco mediante Netmiko, Paramiko y Ansible.
+
+**Características principales**:
+- ✅ Backup automático de configuraciones programado
+- ✅ Despliegue masivo de VLANs en múltiples switches
+- ✅ Configuración de ACLs y reglas de firewall
+- ✅ Generación de reportes de inventario de red
+- ✅ Monitoreo de estado de interfaces y enlaces
+
+<div align="center">
+
+[![Ver Proyecto](https://img.shields.io/badge/VER_PROYECTO-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnaranjooo/network-automation)
+
+</div>
+</details>
+
+<details>
+<summary><b>🐧 Linux-SysAdmin-Toolkit</b> - Kit de herramientas para administradores</summary>
+<br>
+<div align="center">
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+**Descripción**: Suite de scripts Bash y Python para administración, monitoreo y mantenimiento de servidores Linux.
+
+**Características principales**:
+- ✅ Monitoreo en tiempo real de recursos del sistema
+- ✅ Sistema de backups automáticos con rotación
+- ✅ Alertas por email/Telegram para eventos críticos
+- ✅ Scripts de hardening y securización
+- ✅ Gestión automatizada de usuarios y permisos
+
+<div align="center">
+
+[![Ver Proyecto](https://img.shields.io/badge/VER_PROYECTO-95E1D3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnaranjooo/linux-toolkit)
+
+</div>
+</details>
+
+<details>
+<summary><b>💾 Backup-Recovery-System</b> - Sistema de respaldo y recuperación</summary>
+<br>
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
+
+**Descripción**: Solución completa de backup y recuperación ante desastres con contenedores Docker y bases de datos.
+
+**Características principales**:
+- ✅ Backups incrementales y diferenciales
+- ✅ Cifrado AES-256 de backups
+- ✅ Restauración rápida con verificación de integridad
+- ✅ Programación flexible de tareas
+- ✅ Dashboard web para gestión y monitoreo
+
+<div align="center">
+
+[![Ver Proyecto](https://img.shields.io/badge/VER_PROYECTO-F38181?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexnaranjooo/backup-system)
+
+</div>
+</details>
 
 ---
 
@@ -230,12 +377,24 @@ me.say_hi()
 
 ---
 
+## 🎯 Objetivos 2025
+
+<div align="center">
+
+| 🎓 Certificaciones | 📚 Aprendizaje | 💼 Profesional |
+|-------------------|----------------|----------------|
+| ![](https://progress-bar.dev/60/?title=CCNA&width=120&color=1BA0D7) | ![](https://progress-bar.dev/75/?title=Docker&width=120&color=2496ED) | ![](https://progress-bar.dev/40/?title=Prácticas&width=120&color=FF6B6B) |
+| ![](https://progress-bar.dev/30/?title=Linux+&width=120&color=FCC624) | ![](https://progress-bar.dev/50/?title=Kubernetes&width=120&color=326CE5) | ![](https://progress-bar.dev/80/?title=Portfolio&width=120&color=4ECDC4) |
+| ![](https://progress-bar.dev/20/?title=CEH&width=120&color=557C94) | ![](https://progress-bar.dev/65/?title=AWS&width=120&color=FF9900) | ![](https://progress-bar.dev/90/?title=Networking&width=120&color=95E1D3) |
+
+</div>
+
 ### 📋 Roadmap
 
-- 🔭 **Q1 2026**: Completar certificación CCNA
-- 🌱 **Q2 2026**: Dominar Docker y Kubernetes para DevOps+
-- 👯 **Q3 2026**: Contribuir a 5+ proyectos open-source
-- 💼 **Q4 2026**: Obtener primera experiencia profesional en ciberseguridad
+- 🔭 **Q1 2025**: Completar certificación CCNA
+- 🌱 **Q2 2025**: Dominar Docker y Kubernetes para DevOps
+- 👯 **Q3 2025**: Contribuir a 5+ proyectos open-source
+- 💼 **Q4 2025**: Obtener primera experiencia profesional en ciberseguridad
 - 🎯 **Continuo**: Practicar en plataformas como HackTheBox y TryHackMe
 
 ---
@@ -244,7 +403,22 @@ me.say_hi()
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alexnaranjooo&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github-profile-trophy.vercel.app/?username=alexnaranjooo&theme=tokyonight&no-frame=true&column=3&row=1" alt="Trophies"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+| 🎖️ Logro | 📅 Estado | 🎯 Progreso |
+|----------|-----------|-------------|
+| **Contribuidor Activo** | En curso | ![](https://img.shields.io/badge/progress-75%25-success) |
+| **100 Commits** | Completado | ![](https://img.shields.io/badge/status-achieved-brightgreen) |
+| **Open Source** | En curso | ![](https://img.shields.io/badge/projects-3-blue) |
+| **Certificación CCNA** | Preparando | ![](https://img.shields.io/badge/progress-60%25-yellow) |
 
 </div>
 
@@ -271,14 +445,35 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 
 ---
 
-## 💭 Cita Inspiradora
+## 💭 Citas Inspiradoras
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20build%20our%20computer%20systems%20the%20way%20we%20build%20our%20cities:%20over%20time,%20without%20a%20plan,%20on%20top%20of%20ruins.&author=Ellen%20Ullman" alt="Quote 1"/>
+</td>
+<td align="center" width="50%">
 
-### 💡 "La tecnología es mejor cuando acerca a las personas" 
+### 💡 "La tecnología es mejor cuando acerca a las personas"
 **- Matt Mullenweg**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ☕ Apóyame
+
+<div align="center">
+
+Si te gusta mi trabajo y quieres apoyarme, ¡invítame a un café! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexnaranjo)
 
 </div>
 
@@ -286,9 +481,22 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 
 <div align="center">
 
-### 🐍 Contribuciones
+### 🐍 Mis Contribuciones
 
-![Snake animation](https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexnaranjooo/alexnaranjooo/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+### 📊 Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 💡 **Nota**: Para habilitar la animación de la serpiente y la actividad reciente, necesitarás configurar GitHub Actions en tu repositorio.
 
 ---
 
