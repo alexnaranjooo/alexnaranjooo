@@ -10,6 +10,7 @@
 [![InfoJobs](https://img.shields.io/badge/InfoJobs-FF6600?style=for-the-badge&logo=infojobs&logoColor=white)]([https://www.infojobs.net/candidato/perfil/tu-perfil](https://www.infojobs.net/candidate/cv/view/index.xhtml))
 
 
+
 </div>
 
 ---
