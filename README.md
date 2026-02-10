@@ -121,7 +121,7 @@ me.say_hi()
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Ciberseguridad-85%25-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Ciberseguridad"/>
+<img src="https://img.shields.io/badge/Ciberseguridad-55%25-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Ciberseguridad"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Pentesting-black?style=flat-square&logo=kalilinux"/>
 <img src="https://img.shields.io/badge/-Hardening-black?style=flat-square&logo=shield"/>
