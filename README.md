@@ -130,7 +130,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-Forensics-black?style=flat-square&logo=wireshark"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Redes-90%25-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+<img src="https://img.shields.io/badge/Redes-65%25-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Routing-black?style=flat-square&logo=cisco"/>
 <img src="https://img.shields.io/badge/-Switching-black?style=flat-square&logo=cisco"/>
@@ -139,7 +139,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-VPN-black?style=flat-square&logo=wireguard"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Linux-88%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Linux-65%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian"/>
@@ -150,7 +150,7 @@ me.say_hi()
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Windows-75%25-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Windows-80%25-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Active_Directory-black?style=flat-square&logo=microsoft"/>
 <img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell"/>
@@ -168,7 +168,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-CLI_Tools-black?style=flat-square&logo=windows-terminal"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Databases-65%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases"/>
+<img src="https://img.shields.io/badge/Databases-75%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases"/>
 <br><br>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb"/>
@@ -179,15 +179,6 @@ me.say_hi()
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Docker-60%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<br><br>
-<img src="https://img.shields.io/badge/-Containers-black?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-Compose-black?style=flat-square&logo=docker"/>
-<br>
-<img src="https://img.shields.io/badge/-Images-black?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/-Registry-black?style=flat-square&logo=docker"/>
-</td>
-<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Cloud-50%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud"/>
 <br><br>
 <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws"/>
@@ -196,16 +187,6 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-IaC-black?style=flat-square&logo=terraform"/>
 <img src="https://img.shields.io/badge/-Services-black?style=flat-square&logo=google-cloud"/>
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/DevOps-55%25-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps"/>
-<br><br>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=gitlab"/>
-<br>
-<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/-Monitoring-black?style=flat-square&logo=prometheus"/>
-</td>
-</tr>
 </table>
 
 </div>
