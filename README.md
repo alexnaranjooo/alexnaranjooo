@@ -24,13 +24,13 @@ class AlexNaranjo:
     def __init__(self):
         self.name = "Alex Naranjo"
         self.role = "SysAdmin & Cybersecurity Specialist"
-        self.location = "España 🇪🇸"
-        self.education = "CFGS Administración de Sistemas Informáticos y Redes"
+        self.location = "Barcelona | España 🇪🇸"
+        self.education = "CFGS Administración de Sistemas Informáticos y Redes con perfil en Ciberseguridad"
         
     def get_current_focus(self):
         return {
-            "learning": ["Docker", "Kubernetes", "Penetration Testing"],
-            "certifications": ["CCNA", "Linux+", "CEH"],
+            "learning": ["Docker", "SQL Injection", "Penetration Testing"],
+            "certifications": ["CCNA", "Linux+", "CNI"],
             "interests": ["Ciberseguridad", "DevOps", "Cloud Computing"]
         }
     
@@ -82,8 +82,6 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -94,8 +92,6 @@ me.say_hi()
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 </div>
 
