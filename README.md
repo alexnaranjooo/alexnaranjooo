@@ -235,13 +235,6 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 
 </div>
 
----
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
