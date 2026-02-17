@@ -237,20 +237,6 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 
 ---
 
-## 💭 Citas Inspiradoras
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=We%20build%20our%20computer%20systems%20the%20way%20we%20build%20our%20cities:%20over%20time,%20without%20a%20plan,%20on%20top%20of%20ruins.&author=Ellen%20Ullman" alt="Quote 1"/>
-</td>
-<td align="center" width="50%">
-
-### 💡 "La tecnología es mejor cuando acerca a las personas"
-**- Matt Mullenweg**
-
 </td>
 </tr>
 </table>
