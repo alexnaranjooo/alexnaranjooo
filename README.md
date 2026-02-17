@@ -45,20 +45,6 @@ me.say_hi()
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexnaranjooo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexnaranjooo&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6D00&currStreakLabel=2E9EF7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaranjooo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
-
-</div>
-
----
-
 ## 💻 Stack Tecnológico
 
 ### 🔤 Lenguajes de Programación
