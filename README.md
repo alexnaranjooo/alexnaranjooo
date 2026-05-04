@@ -179,7 +179,7 @@ Diseño e implementación de la infraestructura de red completa para una empresa
 **Tecnologías y herramientas:**
 - Cisco Packet Tracer
 - GNS3
-- Routing & Switching (OSPF, VLANs, STP, etc.)
+- Routing & Switching (OSPF, VLANs, etc.)
 - Configuración de dispositivos Cisco
 - Simulación de entornos empresariales
 
@@ -225,10 +225,9 @@ Crear una red empresarial escalable, segura y eficiente, simulando un entorno re
 
 ### 📋 Roadmap
 
-- 🔭 **Q1 2026**: Completar certificación CCNA
-- 🌱 **Q2 2026**: Dominar Docker y Kubernetes para DevOps
-- 👯 **Q3 2026**: Contribuir a 5+ proyectos open-source
-- 💼 **Q4 2026**: Obtener primera experiencia profesional en ciberseguridad
+- 🔭 **Q1 2026**: Dominar distintos aspectos relacionado con Redes (OSPF, NAT, PAT, etc...)
+- 🌱 **Q2 2026**: Completar alguna certificación como CCNA para Redes o CJCA para Ciberseguridad
+- 👯 **Q3 2026**: Obtener y realizar mis primeras prácticas en el ámbito.
 - 🎯 **Continuo**: Practicar en plataformas como HackTheBox y TryHackMe
 
 ---
