@@ -234,14 +234,3 @@ $ echo "alexnaranjoblazquez@gmail.com" | mail -s "¡Hola Alex! 👋"
 ```
 
 </div>
-
-
----
-
-**⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios ⭐**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-*Última actualización: Febrero 2025*
-
-</div>
