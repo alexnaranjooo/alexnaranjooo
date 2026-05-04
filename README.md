@@ -164,15 +164,6 @@ me.say_hi()
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Cloud-50%25-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud"/>
-<br><br>
-<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure"/>
-<br>
-<img src="https://img.shields.io/badge/-IaC-black?style=flat-square&logo=terraform"/>
-<img src="https://img.shields.io/badge/-Services-black?style=flat-square&logo=google-cloud"/>
-</td>
 </table>
 
 </div>
