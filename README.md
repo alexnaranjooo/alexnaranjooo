@@ -116,7 +116,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-Forensics-black?style=flat-square&logo=wireshark"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Redes-65%25-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
+<img src="https://img.shields.io/badge/Redes-85%25-4ECDC4?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Routing-black?style=flat-square&logo=cisco"/>
 <img src="https://img.shields.io/badge/-Switching-black?style=flat-square&logo=cisco"/>
@@ -125,7 +125,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-VPN-black?style=flat-square&logo=wireguard"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Linux-65%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Linux-55%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu"/>
 <img src="https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian"/>
