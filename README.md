@@ -31,7 +31,7 @@ class AlexNaranjo:
         return {
             "learning": ["Docker", "SQL Injection", "Penetration Testing"],
             "certifications": ["CCNA", "Linux+", "CNI"],
-            "interests": ["Ciberseguridad", "DevOps", "Cloud Computing"]
+            "interests": ["Ciberseguridad", "IA", "Cloud Computing"]
         }
     
     def say_hi(self):
@@ -87,12 +87,12 @@ me.say_hi()
 
 | 🔧 Área | 📚 Conocimientos |
 |---------|------------------|
-| **Protocolos** | TCP/IP, UDP, ICMP, ARP, HTTP/HTTPS, FTP, SSH, DNS, DHCP |
-| **Direccionamiento** | IPv4, IPv6, Subnetting, VLSM, CIDR |
-| **Routing** | Static Routing, RIP, OSPF, EIGRP, BGP (básico) |
-| **Switching** | VLANs, Trunking, STP, EtherChannel, VTP |
+| **Protocolos** | TCP/IP, UDP, HTTP/HTTPS, FTP, SSH, DNS, DHCP |
+| **Direccionamiento** | IPv4, IPv6, Subnetting, VLSM |
+| **Routing** | Static Routing, RIP, OSPF, NAT |
+| **Switching** | VLANs, Trunking, STP, VTP |
 | **Seguridad** | ACLs, Port Security, NAT/PAT, VPN, Firewall básico |
-| **Herramientas** | Cisco Packet Tracer, GNS3, Wireshark, PuTTY |
+| **Herramientas** | Cisco Packet Tracer, GNS3, Wireshark |
 
 </div>
 
