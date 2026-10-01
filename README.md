@@ -145,7 +145,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-GPO-black?style=flat-square&logo=windows"/>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <br><br>
 <img src="https://img.shields.io/badge/-Automation-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-Scripting-black?style=flat-square&logo=gnu-bash"/>
