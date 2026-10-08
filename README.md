@@ -187,19 +187,9 @@ Diseño e implementación de la infraestructura de red completa para una empresa
 - 🏢 Diseño de red segmentada por departamentos mediante VLANs
 - 🌍 Implementación de routing dinámico (OSPF)
 - 🔐 Configuración de medidas de seguridad (ACLs, Port Security)
-- 🔗 Interconexión de sedes (simulación WAN)
-- 📡 Servicios de red: DHCP, DNS, NAT
-- 🧪 Simulación completa en entornos virtualizados
 
 **Objetivo:**
 Crear una red empresarial escalable, segura y eficiente, simulando un entorno real de trabajo en el ámbito de la administración de sistemas y redes.
-
-**Lo que aprendí:**
-- Diseño de arquitecturas de red desde cero
-- Resolución de problemas en entornos complejos
-- Buenas prácticas en configuración de redes empresariales
-- Uso profesional de herramientas como GNS3 y Cisco
-
 
 ## 📈 Gráfico de Actividad
 
