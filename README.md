@@ -2,7 +2,7 @@
 
 # Álex Naranjo Blázquez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Técnico+de+Sistemas+y+Redes;IT+Support+%7C+Linux+y+Windows;Ciberseguridad+defensiva+(SIEM+%2B)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Técnico+de+Sistemas+y+Redes;IT+Support+%7C+Linux+y+Windows;Ciberseguridad+defensiva+(SIEM)" alt="Typing SVG" />
 
 ### 🎓 Estudiante de CFGS Administración de Sistemas Informáticos en Red (ASIX) · 💼 IT Support
 
