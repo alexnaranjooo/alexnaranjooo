@@ -6,7 +6,7 @@
 
 <img src="https://github.com/alexnaranjooo.png?size=200" width="140" alt="Álex Naranjo"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=4C8DFF&center=true&vCenter=true&random=false&width=700&lines=T%C3%A9cnico+de+Sistemas+y+Redes+(junior);IT+Support+%7C+Linux+y+Windows;Ciberseguridad+defensiva+y+SIEM;Pensar+como+atacante+para+defender+mejor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=4C8DFF&center=true&vCenter=true&random=false&width=700&lines=T%C3%A9cnico+de+Sistemas+y+Redes+(junior);IT+Support+%7C+Linux+y+Windows;Ciberseguridad+defensiva+y+SIEM" alt="Typing SVG" />
 
 ### 🎓 Estudiante de CFGS Administración de Sistemas Informáticos en Red · 📍 Barcelona
 
